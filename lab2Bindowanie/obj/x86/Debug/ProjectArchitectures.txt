@@ -1,0 +1,1 @@
+e:\Documents\Visual Studio 2017\Projects\lab2Bindowanie\lab2Bindowanie\lab2Bindowanie.csproj;x86
